@@ -1,4 +1,4 @@
-# Kim-technical-writeup
+# Kim's-technical-writeup
 # CO₂ Emissions Analysis: Global Trends and Implications
 
 ## Project Goal
